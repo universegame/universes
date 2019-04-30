@@ -1,3 +1,3 @@
 package universes
 
-var wormhole = make(chan int)
+var Wormhole = make(chan int)
